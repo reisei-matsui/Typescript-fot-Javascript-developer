@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/reisei-matsui/Typescript-fot-Javascript-developer/issues"
   },
-  "homepage": "https://github.com/reisei-matsui/Typescript-fot-Javascript-developer#readme"
+  "homepage": "https://github.com/reisei-matsui/Typescript-fot-Javascript-developer#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
